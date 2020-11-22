@@ -1,6 +1,6 @@
 ![Logo](admin/test2_adapter.png)
 # ioBroker.test2_adapter
- 
+  
 [![NPM version](http://img.shields.io/npm/v/iobroker.test2_adapter.svg)](https://www.npmjs.com/package/iobroker.test2_adapter)
 [![Downloads](https://img.shields.io/npm/dm/iobroker.test2_adapter.svg)](https://www.npmjs.com/package/iobroker.test2_adapter)
 ![Number of Installations (latest)](http://iobroker.live/badges/test2_adapter-installed.svg)
