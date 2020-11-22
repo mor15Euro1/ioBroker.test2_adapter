@@ -1,0 +1,79 @@
+{
+	"common": {
+		"name": "test2_adapter",
+		"version": "0.0.1",
+		"news": {
+			"0.0.1": {
+				"en": "initial release",
+				"de": "Erstveröffentlichung",
+				"ru": "Начальная версия",
+				"pt": "lançamento inicial",
+				"nl": "Eerste uitgave",
+				"fr": "Première version",
+				"it": "Versione iniziale",
+				"es": "Versión inicial",
+				"pl": "Pierwsze wydanie",
+				"zh-cn": "首次出版"
+			}
+		},
+		"title": "Test_Test",
+		"titleLang": {
+			"en": "Test_Test",
+			"de": "Test_Test",
+			"ru": "Test_Test",
+			"pt": "Test_Test",
+			"nl": "Test_Test",
+			"fr": "Test_Test",
+			"it": "Test_Test",
+			"es": "Test_Test",
+			"pl": "Test_Test",
+			"zh-cn": "Test_Test"
+		},
+		"desc": {
+			"en": "test2_adapter",
+			"de": "test2_adapter",
+			"ru": "test2_adapter",
+			"pt": "test2_adapter",
+			"nl": "test2_adapter",
+			"fr": "test2_adapter",
+			"it": "test2_adapter",
+			"es": "test2_adapter",
+			"pl": "test2_adapter",
+			"zh-cn": "test2_adapter"
+		},
+		"authors": [
+			"mor15Euro1 <moritz@bachmaiers.de>"
+		],
+		"keywords": [
+			"ioBroker",
+			"template",
+			"Smart Home",
+			"home automation"
+		],
+		"license": "Unlicense",
+		"platform": "Javascript/Node.js",
+		"main": "main.js",
+		"icon": "test2_adapter.png",
+		"enabled": true,
+		"extIcon": "https://raw.githubusercontent.com/mor15Euro1/ioBroker.test2_adapter/master/admin/test2_adapter.png",
+		"readme": "https://github.com/mor15Euro1/ioBroker.test2_adapter/blob/master/README.md",
+		"loglevel": "info",
+		"mode": "daemon",
+		"type": "visualization",
+		"compact": true,
+		"connectionType": "local",
+		"dataSource": "push",
+		"materialize": true,
+		"dependencies": [
+			{
+				"js-controller": ">=2.0.0"
+			}
+		]
+	},
+	"native": {
+		"option1": true,
+		"option2": "42"
+	},
+	"objects": [],
+	"instanceObjects": []
+}

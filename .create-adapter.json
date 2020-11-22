@@ -1,0 +1,33 @@
+{
+	"cli": true,
+	"adapterName": "test2_adapter",
+	"title": "Test_Test",
+	"expert": "no",
+	"features": [
+		"adapter"
+	],
+	"adminFeatures": [],
+	"type": "visualization",
+	"startMode": "daemon",
+	"connectionType": "local",
+	"dataSource": "push",
+	"connectionIndicator": "no",
+	"language": "JavaScript",
+	"adminReact": "no",
+	"tools": [
+		"ESLint",
+		"type checking"
+	],
+	"indentation": "Tab",
+	"quotes": "double",
+	"es6class": "yes",
+	"authorName": "mor15Euro1",
+	"authorGithub": "mor15Euro1",
+	"authorEmail": "moritz@bachmaiers.de",
+	"gitRemoteProtocol": "HTTPS",
+	"gitCommit": "no",
+	"license": "The Unlicense",
+	"ci": "gh-actions",
+	"dependabot": "no",
+	"creatorVersion": "1.30.1"
+}
